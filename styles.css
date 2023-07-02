@@ -1,0 +1,64 @@
+/* GENERAL BODY FORMATTING */
+body {
+    background-color: #eeeeee;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Leckerli One', cursive;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    color: #8493D1; 
+    font-size: 36pt;
+}
+
+h2 {
+    color: #fd7ecc;
+    margin-bottom: 5px;
+    font-family: 'Leckerli One', cursive;
+}
+
+h3 {
+    color: #fd7ecc; 
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-size: 18pt;
+}
+
+p {
+    color: #8493D1;
+    margin-top: 0px;
+    margin-bottom: 25px; 
+}
+
+footer {
+    background-color: #8493D1;
+    color: #eeeeee;
+    padding: 5px;
+    margin: 0px;
+    font-weight: normal;
+    clear: both;
+}
+
+img {
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+div {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.break1{
+ display: none;
+}
+
+.break2{
+    display: none;
+   }
+
+/* next: breakpoints, see wire frame design, make fonts the right size and heaviness, set div styles (padding, centered) */
