@@ -1,0 +1,54 @@
+/* Kimmy Walker, Responsive Travel */
+
+@media screen and (min-width:768px) {
+    .break1 {
+        display: initial;
+        margin-left: 25px;
+    }
+
+    .leftcol {
+        float: left;
+        width:47%;
+        margin: none;
+        padding: 7px;
+        width:47%;
+        margin: 0 0 0 7px;
+    }
+    
+    .rightcol {
+        float: right;
+        width:47%;
+        margin: 0 7px 0 0;
+        padding: 7px;
+    }
+
+}
+
+@media screen and (min-width:999px) {
+    .break2 {
+        display: initial;
+        margin-left: 25px;
+    }
+
+    .leftcol, .rightcol {
+        float:none;
+        width: initial;
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+    }
+    
+    section{
+        float: left;
+        width: 23%;
+        margin: 9px;
+        padding: none;
+    }
+
+    img {
+        clear:both;
+        margin: 40px;
+    }
+
+
+}
+
