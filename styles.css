@@ -12,7 +12,7 @@ h1 {
     font-family: 'Leckerli One', cursive;
     margin-top: 15px;
     margin-bottom: 0px;
-    color: #8493D1; 
+    color: #8493D1;
     font-size: 36pt;
 }
 
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-    color: #fd7ecc; 
+    color: #fd7ecc;
     margin-top: 0px;
     margin-bottom: 25px;
     font-size: 18pt;
@@ -32,7 +32,7 @@ h3 {
 p {
     color: #8493D1;
     margin-top: 0px;
-    margin-bottom: 25px; 
+    margin-bottom: 25px;
 }
 
 footer {
@@ -54,10 +54,10 @@ div {
     padding-right: 40px;
 }
 
-.break1{
- display: none;
+.break1 {
+    display: none;
 }
 
-.break2{
+.break2 {
     display: none;
-   }
+}
